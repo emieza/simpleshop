@@ -1,0 +1,18 @@
+<html>
+<head>
+</head>
+
+<body>
+    <h1>Projecte ${project}</h1>
+    <p>Tot just ens hi posem.</p>
+    Pretenem vendre:
+    <ul>
+        <li>Patates</li>
+        <li>Cols</li>
+        <li>Pomes</li>
+        <li>Taronges</li>
+        <li>...i altres delícies...</li>
+    </ul>
+</body>
+
+</html>
