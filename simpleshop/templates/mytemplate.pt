@@ -3,7 +3,7 @@
 </head>
 
 <body>
-    <h1>Projecte ${project}</h1>
+    <h1>El GRAN Projecte ${project}</h1>
     <p>Tot just ens hi posem.</p>
     Pretenem vendre:
     <ul>
